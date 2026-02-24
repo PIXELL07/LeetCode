@@ -6,9 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PIXELL07/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/PIXELL07/LeetCode/tree/master/0031-next-permutation) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/PIXELL07/LeetCode/tree/master/0031-next-permutation) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/PIXELL07/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
