@@ -20,8 +20,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PIXELL07/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/PIXELL07/LeetCode/tree/master/0036-valid-sudoku) |
+| [0409-longest-palindrome](https://github.com/PIXELL07/LeetCode/tree/master/0409-longest-palindrome) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/PIXELL07/LeetCode/tree/master/0036-valid-sudoku) |
+## String
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/PIXELL07/LeetCode/tree/master/0409-longest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/PIXELL07/LeetCode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
