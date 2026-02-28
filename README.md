@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/PIXELL07/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PIXELL07/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/PIXELL07/LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/PIXELL07/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/PIXELL07/LeetCode/tree/master/0036-valid-sudoku) |
 | [0347-top-k-frequent-elements](https://github.com/PIXELL07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PIXELL07/LeetCode/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/PIXELL07/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
