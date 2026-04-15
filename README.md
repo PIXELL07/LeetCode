@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PIXELL07/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/PIXELL07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/PIXELL07/LeetCode/tree/master/0621-task-scheduler) |
+| [1095-find-in-mountain-array](https://github.com/PIXELL07/LeetCode/tree/master/1095-find-in-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/PIXELL07/LeetCode/tree/master/0035-search-insert-position) |
+| [1095-find-in-mountain-array](https://github.com/PIXELL07/LeetCode/tree/master/1095-find-in-mountain-array) |
 ## Tree
 |  |
 | ------- |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PIXELL07/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/PIXELL07/LeetCode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
