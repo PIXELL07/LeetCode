@@ -1,20 +1,23 @@
 class Solution {
-    public int trap(int[] arr) {
-        int l = 0, r = arr.length - 1;
-        int lmax = 0, rmax = 0, ans = 0;
-
-        while (l < r) {
-            lmax = Math.max(lmax, arr[l]);
-            rmax = Math.max(rmax, arr[r]);
-
-            if (lmax < rmax) {
-                ans += lmax - arr[l];
-                l++;
-            } else {
-                ans += rmax - arr[r];
-                r--;
+    public int trap(int[] height) {
+        int i=0,left_max=height[0],sum=0;
+        int j=height.length-1,right_max=height[j];
+        while (i<j)
+        {
+            if(left_max <= right_max)
+            {
+                sum+=(left_max-height[i]);
+                i++;
+                left_max=Math.max(left_max,height[i]);
+            }
+            else 
+            {
+                sum+=(right_max-height[j]);
+                j--;
+                right_max=Math.max(right_max,height[j]);
             }
         }
-        return ans;
+        return sum;
+        
     }
 }
