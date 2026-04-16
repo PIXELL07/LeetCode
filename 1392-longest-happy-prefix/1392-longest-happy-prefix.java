@@ -1,22 +1,29 @@
 class Solution {
     public String longestPrefix(String s) {
-        int[] dp = new int[s.length()];
-        int len = 0, i = 1;
-        while(i < s.length()){
-            if(s.charAt(i) == s.charAt(len)){
-                dp[i] = ++len;
-                i++;
-            }
-            else{
-                if(len>0){
-                    len = dp[len-1];
-                }
-                else{
-                    dp[i] = 0;
-                    i++;
+        char[] arr = s.toCharArray();
+        int[] lps = new int[s.length()];  
+        
+        int i = 0;  
+        int j = 1;  
+        
+        // Build LPS array using KMP algorithm
+        while (j < arr.length) {
+            if (arr[i] == arr[j]) {
+                lps[j] = ++i;
+                j++;
+            } else {
+                if (i == 0) {
+                    lps[j++] = 0;
+                } else {
+                    i = lps[i - 1];
                 }
             }
         }
-        return s.substring(0,dp[dp.length-1]);
+        
+        if (lps[arr.length - 1] == 0)
+            return "";
+        
+        int start = arr.length - lps[arr.length - 1];
+        return s.substring(start, arr.length);
     }
 }
