@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/PIXELL07/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PIXELL07/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PIXELL07/LeetCode/tree/master/0022-generate-parentheses) |
+| [0214-shortest-palindrome](https://github.com/PIXELL07/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0409-longest-palindrome](https://github.com/PIXELL07/LeetCode/tree/master/0409-longest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/PIXELL07/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Greedy
@@ -198,13 +199,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/PIXELL07/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/PIXELL07/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/PIXELL07/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/PIXELL07/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/PIXELL07/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/PIXELL07/LeetCode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
