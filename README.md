@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0337-house-robber-iii](https://github.com/PIXELL07/LeetCode/tree/master/0337-house-robber-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PIXELL07/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/PIXELL07/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PIXELL07/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/PIXELL07/LeetCode/tree/master/0337-house-robber-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PIXELL07/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/PIXELL07/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/PIXELL07/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PIXELL07/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PIXELL07/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/PIXELL07/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/PIXELL07/LeetCode/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PIXELL07/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/PIXELL07/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Topological Sort
 |  |
 | ------- |
