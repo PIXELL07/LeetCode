@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/PIXELL07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/PIXELL07/LeetCode/tree/master/0621-task-scheduler) |
 | [1095-find-in-mountain-array](https://github.com/PIXELL07/LeetCode/tree/master/1095-find-in-mountain-array) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/PIXELL07/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,11 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PIXELL07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/PIXELL07/LeetCode/tree/master/0621-task-scheduler) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/PIXELL07/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PIXELL07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/PIXELL07/LeetCode/tree/master/0621-task-scheduler) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/PIXELL07/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/PIXELL07/LeetCode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PIXELL07/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/PIXELL07/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Binary Search
 |  |
 | ------- |
@@ -233,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/PIXELL07/LeetCode/tree/master/0200-number-of-islands) |
+## Number Theory
+|  |
+| ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/PIXELL07/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 <!---LeetCode Topics End-->
