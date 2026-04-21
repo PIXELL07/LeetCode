@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/PIXELL07/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/PIXELL07/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/PIXELL07/LeetCode/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/PIXELL07/LeetCode/tree/master/0143-reorder-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,16 +109,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PIXELL07/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/PIXELL07/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/PIXELL07/LeetCode/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/PIXELL07/LeetCode/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PIXELL07/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/PIXELL07/LeetCode/tree/master/0143-reorder-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PIXELL07/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PIXELL07/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PIXELL07/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/PIXELL07/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PIXELL07/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/PIXELL07/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
