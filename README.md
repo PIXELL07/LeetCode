@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PIXELL07/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/PIXELL07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/PIXELL07/LeetCode/tree/master/0621-task-scheduler) |
+| [0909-snakes-and-ladders](https://github.com/PIXELL07/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [1095-find-in-mountain-array](https://github.com/PIXELL07/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/PIXELL07/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Two Pointers
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/PIXELL07/LeetCode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/PIXELL07/LeetCode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PIXELL07/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0909-snakes-and-ladders](https://github.com/PIXELL07/LeetCode/tree/master/0909-snakes-and-ladders) |
 ## String
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/PIXELL07/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PIXELL07/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PIXELL07/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0909-snakes-and-ladders](https://github.com/PIXELL07/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/PIXELL07/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Search Tree
 |  |
