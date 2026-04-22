@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0337-house-robber-iii](https://github.com/PIXELL07/LeetCode/tree/master/0337-house-robber-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PIXELL07/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/PIXELL07/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/PIXELL07/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/PIXELL07/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Depth-First Search
@@ -172,12 +173,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PIXELL07/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/PIXELL07/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/PIXELL07/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/PIXELL07/LeetCode/tree/master/0337-house-robber-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PIXELL07/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/PIXELL07/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/PIXELL07/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Backtracking
 |  |
