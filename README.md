@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/PIXELL07/LeetCode/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/PIXELL07/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PIXELL07/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/PIXELL07/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PIXELL07/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/PIXELL07/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/PIXELL07/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PIXELL07/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/PIXELL07/LeetCode/tree/master/0337-house-robber-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PIXELL07/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/PIXELL07/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/PIXELL07/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Breadth-First Search
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/PIXELL07/LeetCode/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/PIXELL07/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PIXELL07/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/PIXELL07/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PIXELL07/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/PIXELL07/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Backtracking
