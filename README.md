@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PIXELL07/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PIXELL07/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0337-house-robber-iii](https://github.com/PIXELL07/LeetCode/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/PIXELL07/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PIXELL07/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PIXELL07/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/PIXELL07/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/PIXELL07/LeetCode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/PIXELL07/LeetCode/tree/master/0322-coin-change) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PIXELL07/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PIXELL07/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0337-house-robber-iii](https://github.com/PIXELL07/LeetCode/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/PIXELL07/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PIXELL07/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
