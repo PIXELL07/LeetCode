@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PIXELL07/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PIXELL07/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PIXELL07/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/PIXELL07/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/PIXELL07/LeetCode/tree/master/0072-edit-distance) |
 | [0214-shortest-palindrome](https://github.com/PIXELL07/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0409-longest-palindrome](https://github.com/PIXELL07/LeetCode/tree/master/0409-longest-palindrome) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/PIXELL07/LeetCode/tree/master/0044-wildcard-matching) |
 | [0409-longest-palindrome](https://github.com/PIXELL07/LeetCode/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/PIXELL07/LeetCode/tree/master/0621-task-scheduler) |
 ## Divide and Conquer
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PIXELL07/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/PIXELL07/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/PIXELL07/LeetCode/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/PIXELL07/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/PIXELL07/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PIXELL07/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PIXELL07/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PIXELL07/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/PIXELL07/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/PIXELL07/LeetCode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/PIXELL07/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/PIXELL07/LeetCode/tree/master/0213-house-robber-ii) |
