@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PIXELL07/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/PIXELL07/LeetCode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/PIXELL07/LeetCode/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/PIXELL07/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PIXELL07/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/PIXELL07/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/PIXELL07/LeetCode/tree/master/0200-number-of-islands) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/PIXELL07/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/PIXELL07/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/PIXELL07/LeetCode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/PIXELL07/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/PIXELL07/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/PIXELL07/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/PIXELL07/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/PIXELL07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/PIXELL07/LeetCode/tree/master/0621-task-scheduler) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/PIXELL07/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
