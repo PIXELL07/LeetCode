@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/PIXELL07/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/PIXELL07/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/PIXELL07/LeetCode/tree/master/0213-house-robber-ii) |
+| [0219-contains-duplicate-ii](https://github.com/PIXELL07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/PIXELL07/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/PIXELL07/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/PIXELL07/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PIXELL07/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PIXELL07/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/PIXELL07/LeetCode/tree/master/0036-valid-sudoku) |
+| [0219-contains-duplicate-ii](https://github.com/PIXELL07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/PIXELL07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/PIXELL07/LeetCode/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/PIXELL07/LeetCode/tree/master/0621-task-scheduler) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PIXELL07/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/PIXELL07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Rolling Hash
 |  |
 | ------- |
