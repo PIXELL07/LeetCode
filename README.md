@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/PIXELL07/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/PIXELL07/LeetCode/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/PIXELL07/LeetCode/tree/master/0621-task-scheduler) |
+| [1763-longest-nice-substring](https://github.com/PIXELL07/LeetCode/tree/master/1763-longest-nice-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/PIXELL07/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0409-longest-palindrome](https://github.com/PIXELL07/LeetCode/tree/master/0409-longest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/PIXELL07/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [1763-longest-nice-substring](https://github.com/PIXELL07/LeetCode/tree/master/1763-longest-nice-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PIXELL07/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1763-longest-nice-substring](https://github.com/PIXELL07/LeetCode/tree/master/1763-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PIXELL07/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/PIXELL07/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1763-longest-nice-substring](https://github.com/PIXELL07/LeetCode/tree/master/1763-longest-nice-substring) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -301,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/PIXELL07/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/PIXELL07/LeetCode/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
