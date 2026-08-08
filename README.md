@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/PIXELL07/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/PIXELL07/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/PIXELL07/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/PIXELL07/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/PIXELL07/LeetCode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/PIXELL07/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PIXELL07/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/PIXELL07/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PIXELL07/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/PIXELL07/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/PIXELL07/LeetCode/tree/master/0051-n-queens) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/PIXELL07/LeetCode/tree/master/1763-longest-nice-substring) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/PIXELL07/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
