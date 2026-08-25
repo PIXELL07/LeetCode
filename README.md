@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PIXELL07/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PIXELL07/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/PIXELL07/LeetCode/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/PIXELL07/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/PIXELL07/LeetCode/tree/master/0072-edit-distance) |
 | [0214-shortest-palindrome](https://github.com/PIXELL07/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0409-longest-palindrome](https://github.com/PIXELL07/LeetCode/tree/master/0409-longest-palindrome) |
